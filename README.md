@@ -1,4 +1,4 @@
-![Coding Animation](https://in.pinterest.com/pin/29977153763923839/)
+![Coding Animation](_.gif)
 # Hey, I'm a Game Developer in Progress! 🎮
 
 ### C++ Developer • Godot Game Developer • Python Learner
