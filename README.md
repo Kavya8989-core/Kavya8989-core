@@ -9,11 +9,13 @@ I'm currently focused on improving my game development skills with **Godot Engin
 
 ## 🛠️ Languages & Tools
 
-- **C++** — Programming and problem-solving
-- **GDScript** — Game mechanics and gameplay systems in Godot
-- **Python** — Scripting, programming, and exploring AI/ML
-- **Godot Engine** — 2D game development
-- **Git & GitHub** — Version control and collaboration
+
+- [**C++**](https://isocpp.org/) — Programming and problem-solving
+- [**GDScript**](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html) — Game mechanics and gameplay systems in Godot
+- [**Python**](https://www.python.org/) — Scripting, programming, and exploring AI/ML
+- [**Godot Engine**](https://godotengine.org/) — 2D game development
+- [**Git & GitHub**](https://docs.github.com/) — Version control and collaboration
+
 
 ## 🎮 What I Love Working On
 
