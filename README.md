@@ -81,7 +81,7 @@ Check out my repositories to see the games I'm developing, experiments I'm worki
 
 ## 🤝 Let's Connect & Collaborate!
 
-I'm always interested in meeting fellow game developers, pixel artists, programmers, and creative people who enjoy building things together.
+I'm always interested in meeting fellow game developer, pixel artists, programmers, and creative people who enjoy building things together.
 
 **Keep creating. Keep learning. Keep shipping.** 💚
 
