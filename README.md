@@ -83,7 +83,6 @@ Check out my repositories to see the games I'm developing, experiments I'm worki
 
 I'm always interested in meeting fellow game developer, pixel artists, programmers, and creative people who enjoy building things together.
 
-**Keep creating. Keep learning. Keep shipping.** 💚
 
 ---
 
